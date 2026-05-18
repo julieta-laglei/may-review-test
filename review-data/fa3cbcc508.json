@@ -1,0 +1,25 @@
+{
+  "carte": "34603",
+  "name": "Frédérique",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-05-26",
+      "last_pretty": "26 may 2025"
+    }
+  ]
+}

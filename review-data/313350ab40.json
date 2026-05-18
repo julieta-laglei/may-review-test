@@ -1,0 +1,37 @@
+{
+  "carte": "36059",
+  "name": "Bénédicte",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
+    }
+  ]
+}

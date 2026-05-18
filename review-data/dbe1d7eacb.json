@@ -1,0 +1,19 @@
+{
+  "carte": "31505",
+  "name": "Alexandre",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

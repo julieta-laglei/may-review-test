@@ -1,0 +1,19 @@
+{
+  "carte": "34454",
+  "name": "Vanessa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    }
+  ]
+}

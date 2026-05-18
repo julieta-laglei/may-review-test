@@ -1,0 +1,13 @@
+{
+  "carte": "36628",
+  "name": "Asa",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
+    }
+  ]
+}

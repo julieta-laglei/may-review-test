@@ -1,0 +1,43 @@
+{
+  "carte": "34606",
+  "name": "Halima",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "29789",
+  "name": "Adeline",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

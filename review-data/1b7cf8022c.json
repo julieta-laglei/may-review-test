@@ -1,0 +1,19 @@
+{
+  "carte": "34631",
+  "name": "Helena",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
+    }
+  ]
+}

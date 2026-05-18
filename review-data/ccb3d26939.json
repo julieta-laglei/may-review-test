@@ -1,0 +1,13 @@
+{
+  "carte": "36518",
+  "name": "Ritsuko",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    }
+  ]
+}

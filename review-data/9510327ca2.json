@@ -1,0 +1,31 @@
+{
+  "carte": "25904",
+  "name": "Salvatore",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-05-27",
+      "last_pretty": "27 may 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-05-27",
+      "last_pretty": "27 may 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "34897",
+  "name": "Solange",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Simple Passion",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
+    },
+    {
+      "name": "JOIA NEUCHATEL",
+      "visits": 1,
+      "last": "2025-05-28",
+      "last_pretty": "28 may 2025"
+    }
+  ]
+}

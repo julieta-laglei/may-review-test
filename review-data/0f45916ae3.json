@@ -1,0 +1,31 @@
+{
+  "carte": "35700",
+  "name": "Karen",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
+    },
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
+    },
+    {
+      "name": "Studio Beauté",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
+    }
+  ]
+}

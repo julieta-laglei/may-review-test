@@ -1,0 +1,19 @@
+{
+  "carte": "35527",
+  "name": "Marina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    }
+  ]
+}

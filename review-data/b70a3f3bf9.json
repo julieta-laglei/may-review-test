@@ -1,0 +1,19 @@
+{
+  "carte": "34729",
+  "name": "ana",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-23",
+      "last_pretty": "23 november 2025"
+    }
+  ]
+}

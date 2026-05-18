@@ -1,0 +1,13 @@
+{
+  "carte": "35833",
+  "name": "Armanda",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-01-11",
+      "last_pretty": "11 january 2026"
+    }
+  ]
+}

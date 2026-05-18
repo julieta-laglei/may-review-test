@@ -1,0 +1,25 @@
+{
+  "carte": "34189",
+  "name": "Vanessa",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-05-21",
+      "last_pretty": "21 may 2025"
+    }
+  ]
+}

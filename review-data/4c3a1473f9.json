@@ -1,0 +1,31 @@
+{
+  "carte": "31842",
+  "name": "Carole",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-07-13",
+      "last_pretty": "13 july 2025"
+    },
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2025-05-31",
+      "last_pretty": "31 may 2025"
+    }
+  ]
+}

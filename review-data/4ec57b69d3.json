@@ -1,0 +1,19 @@
+{
+  "carte": "26690",
+  "name": "Sandra",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

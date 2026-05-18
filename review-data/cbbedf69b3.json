@@ -1,0 +1,19 @@
+{
+  "carte": "25565",
+  "name": "Micaela",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

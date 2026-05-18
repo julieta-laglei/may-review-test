@@ -1,0 +1,13 @@
+{
+  "carte": "32529",
+  "name": "Lara",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
+    }
+  ]
+}

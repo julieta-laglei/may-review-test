@@ -1,0 +1,25 @@
+{
+  "carte": "34419",
+  "name": "Marie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    }
+  ]
+}

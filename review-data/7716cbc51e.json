@@ -1,0 +1,25 @@
+{
+  "carte": "29068",
+  "name": "Emilie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    },
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-05-29",
+      "last_pretty": "29 may 2025"
+    }
+  ]
+}

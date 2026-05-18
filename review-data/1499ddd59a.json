@@ -1,0 +1,19 @@
+{
+  "carte": "38734",
+  "name": "Felicina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    }
+  ]
+}

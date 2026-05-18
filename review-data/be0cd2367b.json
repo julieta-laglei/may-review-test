@@ -1,0 +1,19 @@
+{
+  "carte": "35144",
+  "name": "Julia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Espace Beauté Harmonie",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    }
+  ]
+}

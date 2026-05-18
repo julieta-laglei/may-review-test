@@ -1,0 +1,19 @@
+{
+  "carte": "38489",
+  "name": "Cynthia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
+    }
+  ]
+}

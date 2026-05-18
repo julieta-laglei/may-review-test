@@ -1,0 +1,31 @@
+{
+  "carte": "27033",
+  "name": "Amandine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-05-31",
+      "last_pretty": "31 may 2025"
+    }
+  ]
+}

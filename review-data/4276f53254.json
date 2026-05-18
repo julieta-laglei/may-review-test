@@ -1,0 +1,19 @@
+{
+  "carte": "26031",
+  "name": "Laura",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

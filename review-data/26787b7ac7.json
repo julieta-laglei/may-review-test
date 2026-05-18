@@ -1,0 +1,37 @@
+{
+  "carte": "35925",
+  "name": "Alexia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Sabrina",
+      "visits": 1,
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026"
+    }
+  ]
+}

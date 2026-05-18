@@ -1,0 +1,19 @@
+{
+  "carte": "28476",
+  "name": "Katia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-05-23",
+      "last_pretty": "23 may 2025"
+    }
+  ]
+}

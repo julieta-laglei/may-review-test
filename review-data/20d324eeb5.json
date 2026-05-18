@@ -1,0 +1,31 @@
+{
+  "carte": "30137",
+  "name": "Caroline",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
+    },
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-05-11",
+      "last_pretty": "11 may 2026"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    }
+  ]
+}

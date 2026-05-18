@@ -1,0 +1,19 @@
+{
+  "carte": "31983",
+  "name": "Aurelien",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-05-18",
+      "last_pretty": "18 may 2025"
+    }
+  ]
+}

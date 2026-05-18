@@ -1,0 +1,19 @@
+{
+  "carte": "34420",
+  "name": "Cristina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-30",
+      "last_pretty": "30 november 2025"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "31909",
+  "name": "Veronique",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-05-23",
+      "last_pretty": "23 may 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "29324",
+  "name": "Hela",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-05-24",
+      "last_pretty": "24 may 2025"
+    }
+  ]
+}

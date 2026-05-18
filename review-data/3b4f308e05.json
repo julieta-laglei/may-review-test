@@ -1,0 +1,19 @@
+{
+  "carte": "39181",
+  "name": "Manon",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "31033",
+  "name": "Celine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
+    },
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "carte": "27031",
+  "name": "Pascal",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "visits": 1,
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-05-28",
+      "last_pretty": "28 may 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-05-19",
+      "last_pretty": "19 may 2025"
+    }
+  ]
+}

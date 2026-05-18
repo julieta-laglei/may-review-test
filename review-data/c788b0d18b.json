@@ -1,0 +1,25 @@
+{
+  "carte": "28470",
+  "name": "Eliane",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-08-11",
+      "last_pretty": "11 august 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-05-27",
+      "last_pretty": "27 may 2025"
+    }
+  ]
+}

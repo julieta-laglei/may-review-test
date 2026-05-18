@@ -1,0 +1,31 @@
+{
+  "carte": "25057",
+  "name": "Valentine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

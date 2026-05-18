@@ -1,0 +1,13 @@
+{
+  "carte": "38596",
+  "name": "Myrtille",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    }
+  ]
+}

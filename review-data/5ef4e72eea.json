@@ -1,0 +1,37 @@
+{
+  "carte": "35364",
+  "name": "Emma",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026"
+    }
+  ]
+}

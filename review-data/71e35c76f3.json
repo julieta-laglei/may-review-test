@@ -1,0 +1,19 @@
+{
+  "carte": "23510",
+  "name": "Cristina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-05-20",
+      "last_pretty": "20 may 2025"
+    }
+  ]
+}

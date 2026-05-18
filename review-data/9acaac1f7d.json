@@ -1,0 +1,19 @@
+{
+  "carte": "25624",
+  "name": "Ariane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-05-26",
+      "last_pretty": "26 may 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-05-20",
+      "last_pretty": "20 may 2025"
+    }
+  ]
+}

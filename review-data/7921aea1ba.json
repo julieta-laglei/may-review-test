@@ -1,0 +1,13 @@
+{
+  "carte": "34998",
+  "name": "claire-lise",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Sakora",
+      "visits": 1,
+      "last": "2025-05-28",
+      "last_pretty": "28 may 2025"
+    }
+  ]
+}

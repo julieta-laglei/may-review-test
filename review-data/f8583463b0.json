@@ -1,0 +1,19 @@
+{
+  "carte": "34657",
+  "name": "Sarantsetseg",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-05-23",
+      "last_pretty": "23 may 2025"
+    }
+  ]
+}

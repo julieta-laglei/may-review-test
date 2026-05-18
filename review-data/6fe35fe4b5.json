@@ -1,0 +1,19 @@
+{
+  "carte": "38769",
+  "name": "Julie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-09",
+      "last_pretty": "09 march 2026"
+    },
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
+    }
+  ]
+}

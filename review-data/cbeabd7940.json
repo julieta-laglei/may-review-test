@@ -1,0 +1,19 @@
+{
+  "carte": "31547",
+  "name": "Marlène",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Vogue La Coiffure",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "36604",
+  "name": "Ana",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    }
+  ]
+}

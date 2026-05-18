@@ -1,0 +1,25 @@
+{
+  "carte": "32793",
+  "name": "Kristin",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    }
+  ]
+}

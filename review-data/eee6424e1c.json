@@ -1,0 +1,25 @@
+{
+  "carte": "26584",
+  "name": "Marie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-05-19",
+      "last_pretty": "19 may 2025"
+    }
+  ]
+}

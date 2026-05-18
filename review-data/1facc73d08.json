@@ -1,0 +1,19 @@
+{
+  "carte": "31191",
+  "name": "Elisabeth",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
+    }
+  ]
+}

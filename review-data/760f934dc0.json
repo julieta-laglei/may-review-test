@@ -1,0 +1,19 @@
+{
+  "carte": "30829",
+  "name": "Luigina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-05-18",
+      "last_pretty": "18 may 2025"
+    }
+  ]
+}

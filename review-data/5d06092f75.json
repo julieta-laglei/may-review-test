@@ -1,0 +1,49 @@
+{
+  "carte": "31904",
+  "name": "Barbara",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    },
+    {
+      "name": "Hairstudio",
+      "visits": 1,
+      "last": "2025-05-26",
+      "last_pretty": "26 may 2025"
+    }
+  ]
+}

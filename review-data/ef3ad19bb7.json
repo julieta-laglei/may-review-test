@@ -1,0 +1,19 @@
+{
+  "carte": "25539",
+  "name": "Myriam",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Enfants Terribles Bossonnens",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-05-30",
+      "last_pretty": "30 may 2025"
+    }
+  ]
+}

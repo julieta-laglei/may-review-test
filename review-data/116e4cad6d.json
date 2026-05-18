@@ -1,0 +1,19 @@
+{
+  "carte": "27164",
+  "name": "Marylou",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-05-24",
+      "last_pretty": "24 may 2025"
+    }
+  ]
+}

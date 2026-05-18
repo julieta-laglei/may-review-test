@@ -1,0 +1,19 @@
+{
+  "carte": "36878",
+  "name": "Charlène",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026"
+    }
+  ]
+}

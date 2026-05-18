@@ -1,0 +1,13 @@
+{
+  "carte": "35539",
+  "name": "Marie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
+    }
+  ]
+}

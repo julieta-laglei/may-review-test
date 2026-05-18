@@ -1,0 +1,19 @@
+{
+  "carte": "31873",
+  "name": "Francesca",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    },
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
+    }
+  ]
+}

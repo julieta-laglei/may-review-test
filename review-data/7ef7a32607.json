@@ -1,0 +1,25 @@
+{
+  "carte": "25973",
+  "name": "Célina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    },
+    {
+      "name": "Les Petits Pieds du Bonheur",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025"
+    }
+  ]
+}

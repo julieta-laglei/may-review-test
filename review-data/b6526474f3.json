@@ -1,0 +1,31 @@
+{
+  "carte": "33287",
+  "name": "Stephanie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
+    }
+  ]
+}

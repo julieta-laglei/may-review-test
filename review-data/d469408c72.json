@@ -1,0 +1,13 @@
+{
+  "carte": "28465",
+  "name": "Florence",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
+    }
+  ]
+}

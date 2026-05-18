@@ -1,0 +1,67 @@
+{
+  "carte": "34924",
+  "name": "Golubovic",
+  "nb_estabs": 10,
+  "estabs": [
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-12-15",
+      "last_pretty": "15 december 2025"
+    }
+  ]
+}

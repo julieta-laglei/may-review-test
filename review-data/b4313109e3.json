@@ -1,0 +1,25 @@
+{
+  "carte": "30358",
+  "name": "Marco",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2025-07-20",
+      "last_pretty": "20 july 2025"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-05-21",
+      "last_pretty": "21 may 2025"
+    }
+  ]
+}

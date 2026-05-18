@@ -1,0 +1,19 @@
+{
+  "carte": "39230",
+  "name": "Fatma",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
+    }
+  ]
+}

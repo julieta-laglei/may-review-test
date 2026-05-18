@@ -1,0 +1,31 @@
+{
+  "carte": "30205",
+  "name": "Valentine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-20",
+      "last_pretty": "20 april 2026"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "34099",
+  "name": "Nadia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    },
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
+    }
+  ]
+}
